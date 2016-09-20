@@ -1,0 +1,2 @@
+# MATREXbot
+افتح ترمنال واكتب   sudo apt-get update  ووراهه هاذ ⤵️ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev  2 - افتح ترمنال جديد واكتب cd $HOME وراها ⤵️ git clone https://github.com/mehdi-hs/MATREXbot وراها ⤵️ cd MATREXbot وراها ⤵️ chmod +x launch.sh وراها ⤵️ ./launch.sh install وراها ⤵️ ./launch.sh
